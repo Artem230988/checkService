@@ -1,0 +1,55 @@
+
+.title-head,  .btn-primary, .myform {
+	display: inline-block;
+}
+
+.myformcheck, .min_success, .formUpdateStep {
+	display: inline-block;
+}
+
+.block, .mybtn_name, .mybtn_checks {
+	float:right;
+}
+
+
+
+.min_success, .min_danger {
+	display: inline-block;
+font-size: x-small;
+font-weight:bold;
+
+}
+
+.myP_max, .myBtn_max {
+	display: inline-block;
+}
+
+.mybtn_name, .mybtn_checks, .myBtn_max, .myBtn_banned, .myForm_banned, .myForm_perm1, .mybtn_perm1,  .myForm_perm2, .mybtn_perm2, .myForm_perm3, .mybtn_perm3
+{
+	float: right;
+	font-size: x-small;
+}
+
+.myP_banned, .myForm_banned {
+	display: inline-block;
+}
+
+.myp_perm1, .myForm_perm1 {
+	display: inline-block;
+}
+
+.myp_perm2, .myForm_perm2 {
+	display: inline-block;
+}
+
+.myp_perm3, .myForm_perm3 {
+	display: inline-block;
+}
+
+.myp_name, .mybtn_name {
+	display: inline-block;
+}
+
+.myP_checks, .mybtn_checks {
+	display: inline-block;
+}
